@@ -1,8 +1,8 @@
 class Configdirector < Formula
   desc "Command-line tool for ConfigDirector feature flags and remote config"
   homepage "https://www.configdirector.com"
-  url "https://registry.npmjs.org/@configdirector/cli/-/cli-0.14.0.tgz"
-  sha256 "4961bb51435a05fea556fb52c400433a77e00bbfa562c4e6ecc64bd4dea2380f"
+  url "https://registry.npmjs.org/@configdirector/cli/-/cli-0.15.0.tgz"
+  sha256 "0eb502e47749ba3f9e8d5b2fbf45d90e8b1d32463b2d9b89b08838f01c205148"
   license "MIT"
 
   depends_on "node"
